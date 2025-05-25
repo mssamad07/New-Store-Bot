@@ -17,5 +17,3 @@ requests
 bs4
 shortzy
 aiofiles
-asyncio
-python-3.10.13
