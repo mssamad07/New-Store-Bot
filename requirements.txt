@@ -1,15 +1,11 @@
-git+https://github.com/KurimuzonAkuma/pyrogram.git@dev#egg=pyrogram
+pyrogram==2.0.106
+pyromod==1.0.0
 tgcrypto
-pyromod
 schedule
 apscheduler
-
-# --- For Database --- #
 pymongo
 motor
 dnspython
-
-# --- For Web Response --- #
 aiohttp
 python-dotenv
 pytz
