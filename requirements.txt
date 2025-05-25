@@ -1,18 +1,17 @@
-#https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
-pyrofork
-#pyrogram
-TgCrypto
+git+https://github.com/KurimuzonAkuma/pyrogram.git@dev#egg=pyrogram
+tgcrypto
 pyromod
 schedule
-APscheduler
-# --- For-Database ------------ #
+apscheduler
+
+# --- For Database --- #
 pymongo
 motor
 dnspython
-# --- For-Web-Response ------- #
+
+# --- For Web Response --- #
 aiohttp
 python-dotenv
-# --- For-Web-Response ------- #
 pytz
 requests
 bs4
